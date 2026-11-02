@@ -18,4 +18,4 @@
 <img width="965" height="164" alt="image" src="https://github.com/user-attachments/assets/b726c9b6-66b4-407c-a68d-be67b5d961ce" />
 
 ## 3. Информация о разработчике
-Тошалов Владимир, группа [впиши группу]
+Тощалов Владимир, группа бОТИ-261
