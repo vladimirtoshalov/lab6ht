@@ -11,3 +11,11 @@
 
 Итоговое логическое условие для определения перевертыша: `(d1 == d4 && d2 == d3)`.
 
+## 2. Результаты работы программы
+
+<img width="976" height="178" alt="image" src="https://github.com/user-attachments/assets/7b7766b5-35f2-4fe8-9786-fec1f40b4480" />
+
+<img width="965" height="164" alt="image" src="https://github.com/user-attachments/assets/b726c9b6-66b4-407c-a68d-be67b5d961ce" />
+
+## 3. Информация о разработчике
+Тошалов Владимир, группа [впиши группу]
