@@ -18,12 +18,12 @@ int main() {
         return 0;
     }
 
-    int n1 = num / 1000;
-    int n2 = (num / 100) % 10;
-    int n3 = (num / 10) % 10;
-    int n4 = num % 10;
+    int d1 = num / 1000;
+    int d2 = (num / 100) % 10;
+    int d3 = (num / 10) % 10;
+    int d4 = num % 10;
 
-    if (n1 == n4 && n2 == n3) {
+    if (d1 == d4 && d2 == d3) {
         printf("Число является перевертышем\n");
     }
     else {
